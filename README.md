@@ -4,5 +4,5 @@
 * Historian,
 * Pragmatic deist,
 * Systems developer,
-* Likes: Intel Assembler, FORTH, ANSI C, Vi, CP/M, Z80, Risc-V
-* Dislikes: C++, Java, LISP, GNU Emacs, Vim, ARM, the FSF, UEFI
+* Likes: Intel Assembler, FORTH, ANSI C, Vi, CP/M, Z80, Risc-V, GPL2, Net&Open-BSD
+* Dislikes: C++, Java, LISP, GNU Emacs, Vim, ARM, the FSF, UEFI, GPLv3, Linux
